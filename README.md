@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Hendryl Harlacher!
-- 
 - ⚡ Fun fact: I'm diving into programming, marking one year of study. Currently, I'm enrolled in two bootcamps: Java back-end and .NET Developer, both taught by DIO. I've also been studying Information Systems since 2023/2.
 
 ## 🌐 Socials:
