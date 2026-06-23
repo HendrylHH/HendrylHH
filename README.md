@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hendryl Harlacher!
-- ⚡ Fun fact: I'm diving into programming, marking two years of study. I've also been studying Information Systems since 2023/2.
+- ⚡ Fun fact: I'm diving into programming, marking three years of study. I've also been studying Information Systems since 2023/2.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/138069026684403712) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hendryl-harlacher/) 
