@@ -4,6 +4,10 @@
 
 <br />
 
+**Português** · [English](./README.en.md)
+
+<br />
+
 <a href="https://www.linkedin.com/in/hendryl-harlacher/">
   <img src="https://img.shields.io/badge/LinkedIn-Hendryl%20Harlacher-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
