@@ -1,29 +1,90 @@
-# Hendryl Harlacher
+<div align="center">
 
-### Engenheiro de Software Pleno · IA Aplicada · Automação e Integração de Sistemas
+<img src="./assets/banner.svg" width="100%" alt="Hendryl Harlacher — Software Engineer, Applied AI, Automation & Integrations" />
 
-Desenvolvo soluções que conectam modelos de linguagem, APIs, sistemas legados e interfaces web. Atuo do levantamento de requisitos e das decisões de arquitetura à implementação, implantação e monitoramento.
+<br />
 
-Meu foco é transformar problemas operacionais em software verificável: integrações com tratamento de falhas, processamento rastreável e aplicações de IA com avaliação e limites explícitos.
+<a href="https://www.linkedin.com/in/hendryl-harlacher/">
+  <img src="https://img.shields.io/badge/LinkedIn-Hendryl%20Harlacher-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/HendrylHH/HendrylHH/tree/main/portfolio">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-Explorar-21262D?style=flat-square&logo=github&logoColor=white" alt="Portfólio" />
+</a>
 
-[Explorar o portfólio](https://github.com/HendrylHH/HendrylHH/blob/main/portfolio/README.md) · [LinkedIn](https://www.linkedin.com/in/hendryl-harlacher/)
+</div>
+
+## Sobre
+
+Engenheiro de Software com foco em **IA aplicada, automação corporativa e integração de sistemas**. Desenvolvo soluções que conectam modelos de linguagem, APIs, sistemas legados, dados e interfaces web — da definição da arquitetura à implantação, monitoramento e evolução em produção.
+
+Meu trabalho combina **engenharia de software, IA generativa e automação** para transformar processos complexos em sistemas rastreáveis, resilientes e utilizáveis no dia a dia.
+
+---
 
 ## Projetos em destaque
 
-| Projeto | Descrição |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [ArchSmith](https://github.com/HendrylHH/archsmith)
+
+Memória de engenharia **local-first** e servidor MCP para catalogar, aprovar, versionar e reutilizar funções.
+
+**Destaques:** Python · MCP · SQLite · versionamento · segurança · reutilização de código
+
+</td>
+<td width="50%" valign="top">
+
+### [IA na Prática](https://github.com/HendrylHH/ianapratica)
+
+Projeto de conteúdo e produto web voltado à aplicação prática de inteligência artificial.
+
+**Destaques:** produto web · IA · conteúdo técnico · experiência de usuário
+
+</td>
+</tr>
+</table>
+
+---
+
+## Stack principal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cs,ts,js,react,nodejs,spring,fastapi,postgres,mysql,docker,git,linux&perline=14" alt="Tecnologias principais" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/LLMs-111827?style=flat-square&logo=openai&logoColor=white" alt="LLMs" />
+<img src="https://img.shields.io/badge/RAG-1F6FEB?style=flat-square" alt="RAG" />
+<img src="https://img.shields.io/badge/MCP-6E40C9?style=flat-square" alt="MCP" />
+<img src="https://img.shields.io/badge/Embeddings-30363D?style=flat-square" alt="Embeddings" />
+<img src="https://img.shields.io/badge/Vector%20Databases-30363D?style=flat-square" alt="Vector Databases" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827" alt="Power BI" />
+<img src="https://img.shields.io/badge/Power%20Platform-742774?style=flat-square&logo=powerapps&logoColor=white" alt="Power Platform" />
+
+</div>
+
+---
+
+## Áreas de atuação
+
+| | |
 | --- | --- |
-| [ArchSmith](https://github.com/HendrylHH/archsmith) | Memória de engenharia local e servidor MCP para catalogar, aprovar, versionar e reutilizar funções, com persistência em SQLite. |
-| [IA na Prática](https://github.com/HendrylHH/ianapratica) | Site com conteúdo editorial sobre inteligência artificial. |
+| **IA aplicada** | LLMs, RAG, embeddings, agentes, MCP, avaliação e segurança |
+| **Automação** | RPA, processamento em lote, retomada, rastreabilidade e tratamento de falhas |
+| **Backend & integrações** | APIs REST, Java, Python, serviços e integração com sistemas corporativos |
+| **Frontend & produtos** | TypeScript, React e aplicações web orientadas a fluxos reais |
+| **Dados** | SQL, processamento de dados, Power BI e indicadores operacionais |
+| **Operação** | implantação, monitoramento, observabilidade e continuidade operacional |
 
-## Explorar por área
+---
 
-| Área | Projeto |
-| --- | --- |
-| [Inteligência artificial](https://github.com/HendrylHH/HendrylHH/blob/main/portfolio/inteligencia-artificial/README.md) | ArchSmith — ferramentas para agentes e reutilização de código. |
-| [Frontend e produtos](https://github.com/HendrylHH/HendrylHH/blob/main/portfolio/frontend-e-produtos/README.md) | IA na Prática — publicação de conteúdo sobre IA. |
+## Portfólio
 
-## Tecnologias na minha atuação
+**[Inteligência Artificial](./portfolio/inteligencia-artificial/README.md)** · **[Frontend e Produtos](./portfolio/frontend-e-produtos/README.md)**
 
-**Linguagens:** Python, Java, C#, TypeScript, JavaScript e SQL.  
-**Aplicações e integração:** React, APIs REST, processamento de arquivos, automação e Power Platform.  
-**IA aplicada:** LLMs, recuperação de informação, embeddings, bancos vetoriais e ferramentas para agentes.
+<sub>Os projetos públicos apresentados aqui são independentes de materiais profissionais sujeitos a confidencialidade.</sub>
