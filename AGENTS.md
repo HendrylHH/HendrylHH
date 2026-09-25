@@ -6,6 +6,12 @@ Este repositório contém o perfil público e o catálogo de projetos de Hendryl
 
 Mantenha o perfil em `README.md`, o índice em `portfolio/README.md` e as áreas em `portfolio/<area>/README.md`. Laboratórios menores usam subpastas próprias; projetos independentes são referenciados por links, sem duplicação de código.
 
+## Restrição expressa sobre repositórios privados
+
+Os repositórios privados devem permanecer privados e intocados. Não alterar sua visibilidade, seus arquivos, nomes, estrutura de diretórios, branches ou configurações. Não mover projetos privados nem copiar seus conteúdos para este portfólio público.
+
+Não incluir nomes, links ou detalhes de projetos privados na documentação pública. Um pedido para organizar ou atualizar este portfólio não autoriza modificar repositórios privados. Trabalhe apenas no projeto e no local expressamente indicados pelo proprietário, respeitando esta restrição.
+
 ## Documentação baseada em evidência
 
 Antes de escrever um README de projeto, leia o código relevante, os manifestos, as configurações de exemplo e os testes. Não trate planos ou descrições antigas como implementação comprovada. Não invente versões, comandos, resultados, autoria ou métricas. Diga quando testes não foram executados e diferencie simulação de execução real.
@@ -14,6 +20,6 @@ Use português brasileiro por padrão e adapte `templates/README-PROJETO.md` ao 
 
 ## Publicação
 
-Siga `docs/PUBLICACAO-SEGURA.md`. Não copie material de repositórios privados, projetos profissionais, memórias ou bases reais para este catálogo. Não altere visibilidade, licenças, projetos externos ou configurações de segurança sem autorização específica.
+Siga `docs/PUBLICACAO-SEGURA.md`. Não copie material de repositórios privados, projetos profissionais, memórias ou bases reais para este catálogo. Não altere visibilidade, licenças, projetos externos ou configurações de segurança sem autorização específica. Esta orientação não afasta a restrição expressa sobre repositórios privados acima.
 
 Preserve arquivos e contribuições existentes. Antes de qualquer execução, verifique efeitos externos, custos e operações destrutivas; documentar um projeto não autoriza alterar sistemas reais.
