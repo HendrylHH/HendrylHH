@@ -1,0 +1,51 @@
+# Credenciais e configuracoes locais; exemplos precisam conter apenas placeholders.
+.env
+.env.*
+!.env.example
+!.env.template
+*.pem
+*.p12
+*.pfx
+*.key
+
+# Sessoes de navegador e autenticacao local.
+**/playwright/.auth/
+**/.auth/
+**/storage-state*.json
+**/storage_state*.json
+
+# Bancos locais, logs e dados operacionais.
+*.db
+*.sqlite
+*.sqlite3
+*.log
+logs/
+backups/
+**/data/raw/
+**/data/private/
+**/data/production/
+
+# Dependencias e artefatos gerados.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+node_modules/
+dist/
+build/
+target/
+.next/
+coverage/
+artifacts/
+tmp/
+
+# Configuracao local de editores e sistema operacional.
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Este arquivo nao remove arquivos ja rastreados nem substitui revisao de seguranca.

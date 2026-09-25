@@ -1,17 +1,46 @@
-- 👋 Hi, I’m Hendryl Harlacher!
-- ⚡ Fun fact: I'm diving into programming, marking three years of study. I've also been studying Information Systems since 2023/2.
+# Hendryl Harlacher
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/138069026684403712) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hendryl-harlacher/) 
+### Engenheiro de Software Pleno · IA Aplicada · Automação e Integração de Sistemas
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HendrylHH&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HendrylHH&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HendrylHH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Desenvolvo soluções que conectam modelos de linguagem, APIs, sistemas legados e interfaces web. Atuo do levantamento de requisitos e das decisões de arquitetura à implementação, implantação e monitoramento.
 
----
-[![](https://visitcount.itsvg.in/api?id=HendrylHH&icon=0&color=1)](https://visitcount.itsvg.in)
+Meu foco é transformar problemas operacionais em software verificável: integrações com tratamento de falhas, processamento rastreável e aplicações de IA com avaliação e limites explícitos.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[Explorar o portfólio](https://github.com/HendrylHH/HendrylHH/blob/main/portfolio/README.md) · [LinkedIn](https://www.linkedin.com/in/hendryl-harlacher/)
+
+## Projetos em destaque
+
+| Projeto | O que explorar |
+| --- | --- |
+| [ArchSmith](https://github.com/HendrylHH/archsmith) | Ferramenta local de memória de engenharia e servidor MCP: catálogo de funções aprovadas, SQLite, versionamento e reutilização de código. |
+| [IA na Prática](https://github.com/HendrylHH/ianapratica) | Repositório do site IA na Prática, com código e conteúdo editorial sob permissões próprias. |
+
+Os projetos acima permanecem em seus repositórios originais. A documentação de cada um é a referência para funcionalidades, execução e limitações; esta seleção não equivale a uma auditoria ou certificação de produção.
+
+## Portfólio por competência
+
+| Área | Temas do catálogo |
+| --- | --- |
+| [Inteligência artificial](https://github.com/HendrylHH/HendrylHH/blob/main/portfolio/inteligencia-artificial/README.md) | LLMs, RAG, agentes, MCP, avaliações e segurança aplicada. |
+| [Backend Java](https://github.com/HendrylHH/HendrylHH/blob/main/portfolio/backend-java/README.md) | APIs, regras de negócio, persistência, concorrência e integração com IA. |
+| [Bancos de dados e SQL](https://github.com/HendrylHH/HendrylHH/blob/main/portfolio/bancos-de-dados/README.md) | Modelagem, consultas, índices, transações e desempenho. |
+| [Automação e integrações](https://github.com/HendrylHH/HendrylHH/blob/main/portfolio/automacao-e-integracoes/README.md) | RPA, APIs, processamento em lote, retomada e auditoria. |
+| [Frontend e produtos](https://github.com/HendrylHH/HendrylHH/blob/main/portfolio/frontend-e-produtos/README.md) | TypeScript, React, interfaces e integração com serviços. |
+| [Dados e BI](https://github.com/HendrylHH/HendrylHH/blob/main/portfolio/dados-e-bi/README.md) | SQL, transformação de dados, Power BI, DAX e indicadores. |
+| [Arquitetura e operação](https://github.com/HendrylHH/HendrylHH/blob/main/portfolio/arquitetura-e-operacao/README.md) | Decisões de engenharia, testes, observabilidade e implantação. |
+
+O catálogo está em expansão. Cada área identifica o que já está disponível; temas de interesse e espaços preparados não representam projetos concluídos.
+
+## Tecnologias na minha atuação
+
+**Linguagens:** Python, Java, C#, TypeScript, JavaScript e SQL.  
+**Aplicações e integração:** React, APIs REST, processamento de arquivos, automação e Power Platform.  
+**IA aplicada:** LLMs, recuperação de informação, embeddings, bancos vetoriais e ferramentas para agentes.
+
+As tecnologias utilizadas em cada projeto público são documentadas no respectivo README, sem pressupor que todos os itens acima já tenham uma demonstração publicada.
+
+## Publicação responsável
+
+O portfólio prioriza projetos autorais e demonstrações independentes com dados sintéticos ou fontes públicas adequadamente documentadas. Materiais profissionais sujeitos a confidencialidade não devem ser enviados a este repositório.
+
+[Organização e inclusão de projetos](https://github.com/HendrylHH/HendrylHH/blob/main/docs/ADICIONAR-PROJETO.md) · [Checklist de publicação](https://github.com/HendrylHH/HendrylHH/blob/main/docs/PUBLICACAO-SEGURA.md)
